@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Eldin</h1>
 <h3 align="center">A passionate frontend developer from New Jersey</h3>
 
-- 🌱 I’m currently learning **Front End Technologies**
-
 - 👨‍💻 Link to my Portfolio Website [https://ahmedeldin.is-a.dev/](https://ahmedeldin.is-a.dev/)
 
 - 💬 Ask me about **JavaScript, React, Angular, Vue, etc.**
