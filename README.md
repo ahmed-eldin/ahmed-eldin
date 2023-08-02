@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Eldin</h1>
 <h3 align="center">A passionate frontend developer from New Jersey</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3587000-Coding/attachments/9907911?mode=media">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3587000-Coding/attachments/9907911?mode=media.gif">
 
 - 👨‍💻 Link to my Portfolio Website [https://ahmedeldin.is-a.dev/](https://ahmedeldin.is-a.dev/)
 
