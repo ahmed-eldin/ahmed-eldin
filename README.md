@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **ahmedeldin98@gmail.com**
 
-- 📄 Know about my experiences [Ahmed Eldin Resume](Ahmed Eldin Resume)
-
 - ⚡ Fun fact **I enjoy Working Out, eCommerce, and Eating Good Food.**
 
 <h3 align="left">Connect with me:</h3>
