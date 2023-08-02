@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 <h1 align="center">Hi 👋, I'm Ahmed Eldin</h1>
-<h3 align="center">A passionate frontend developer from New Jersey</h3>
+<h3 align="center">A passionate Front End Developer from New Jersey</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - 👨‍💻 Link to my Portfolio Website [https://ahmedeldin.is-a.dev/](https://ahmedeldin.is-a.dev/)
