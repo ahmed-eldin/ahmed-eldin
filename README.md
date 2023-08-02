@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/cd/83/e3/cd83e34992570d14493c163c3ff3d42d.gif)
+![MasterHead](i.pinimg.com/originals/cd/83/e3/cd83e34992570d14493c163c3ff3d42d.gif)
 
 <h1 align="center">Hi 👋, I'm Ahmed Eldin</h1>
 <h3 align="center">A passionate Front End Developer from New Jersey</h3>
