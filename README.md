@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Front End Developer from New Jersey</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-- 👨‍💻 Link to my Portfolio Website [https://ahmedeldin.is-a.dev/](https://ahmedeldin.is-a.dev/)
+- 👨‍💻 Link to my Portfolio Website [https://ahmed-eldin.github.io](https://ahmed-eldin.github.io)
 
 - 💬 Ask me about **JavaScript, React, Angular, Vue, etc.**
 
